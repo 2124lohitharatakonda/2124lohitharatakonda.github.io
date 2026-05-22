@@ -4,7 +4,7 @@
 
 🌐 **Portfolio:** [2124lohitharatakonda.github.io](https://2124lohitharatakonda.github.io)  
 📧 **Email:** lohitharatakonda.179@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/lohitharatakonda]( https://www.linkedin.com/in/lohitha-ratakonda) 
+💼 **LinkedIn:** [linkedin.com/in/lohitharatakonda](https://www.linkedin.com/in/lohitha-ratakonda) 
 📍 **Location:** Bowling Green, OH (Open to Relocation)
 
 ---
