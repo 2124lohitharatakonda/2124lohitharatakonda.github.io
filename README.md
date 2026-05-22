@@ -11,7 +11,7 @@
 
 ## About Me
 
-MS Computer Science graduate from Bowling Green State University (GPA: 3.87/4.0) with hands-on experience building full-stack applications, AI/ML systems, and cloud-native solutions. Published researcher in deep learning with an upcoming Edge AI publication. Triple cloud certified — AWS, GCP, and Azure.
+MS Computer Science graduate from Bowling Green State University (GPA: 3.87/4.0) with hands-on experience building full-stack applications, AI/ML systems, and cloud-native solutions. Published researcher in deep learning with an upcoming Edge AI publication. Triple cloud certified - AWS, GCP, and Azure.
 
 ---
 
